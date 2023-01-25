@@ -21,6 +21,7 @@
 <a href="https://fb.com/mustafa m. najm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mustafa m. najm" height="30" width="40" /></a>
 <a href="https://instagram.com/mustafa_al.qay55ei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mustafa_al.qay55ei" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/mustafa al-qayssei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mustafa al-qayssei" height="30" width="40" /></a>
+<a href="https://discord.gg/mussha#4990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mussha#4990" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,3 +32,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saqr-ca&show_icons=true&locale=en" alt="saqr-ca" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saqr-ca&" alt="saqr-ca" /></p>
+
+
+

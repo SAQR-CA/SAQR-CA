@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saqr-ca&label=Profile%20views&color=0e75b6&style=flat" alt="saqr-ca" /> </p>
 
-- 🔭 I’m currently PhD student on [Kaunas Technology University](https://en.ktu.edu/)
+- 🔭 I’m currently PhD student at [Kaunas Technology University](https://en.ktu.edu/)
 
 - 🌱 I’m currently learning **Data Analytics, Artificial intelligence**
 
